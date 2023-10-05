@@ -59,9 +59,9 @@ WORKDIR /App
 COPY --from=build-env /App/out .
 ENTRYPOINT ["dotnet", "DotNet.Docker.dll"]
 ```
-
+```
 docker build -t counter-image -f Dockerfile .
-
+```
 
 
 
