@@ -1,0 +1,7 @@
+D:\test\Project\k8s-App-EKS\k8s-App\k8s-App\bin\Release\net6.0\publish\k8s-App.exe
+D:\test\Project\k8s-App-EKS\k8s-App\k8s-App\bin\Release\net6.0\publish\appsettings.Development.json
+D:\test\Project\k8s-App-EKS\k8s-App\k8s-App\bin\Release\net6.0\publish\appsettings.json
+D:\test\Project\k8s-App-EKS\k8s-App\k8s-App\bin\Release\net6.0\publish\k8s-App.dll
+D:\test\Project\k8s-App-EKS\k8s-App\k8s-App\bin\Release\net6.0\publish\k8s-App.deps.json
+D:\test\Project\k8s-App-EKS\k8s-App\k8s-App\bin\Release\net6.0\publish\k8s-App.runtimeconfig.json
+D:\test\Project\k8s-App-EKS\k8s-App\k8s-App\bin\Release\net6.0\publish\k8s-App.pdb
