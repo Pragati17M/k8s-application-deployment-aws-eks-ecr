@@ -27,10 +27,11 @@ cd k8s-App
 ls
 dotnet publish -c Release
 ```
-```
+Following Path will be created
+
 k8s-App -> D:\GitHub\k8s-App-EKS\k8s-App\k8s-App\bin\Release\net6.0\k8s-App.dll
 k8s-App -> D:\GitHub\k8s-App-EKS\k8s-App\k8s-App\bin\Release\net6.0\publish\
-```
+
 ```
 cd k8s-App
 ```
