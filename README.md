@@ -135,3 +135,27 @@ docker stop core-counter
 ```
 docker run -it --rm counter-image
 ```
+
+```
+// sign in to aws | IAM | create user, group, assign policy
+aws cli configuration
+
+aws ecr get-login-password --region region | docker login --username AWS --password-stdin aws_account_id.dkr.ecr.region.amazonaws.com
+
+
+// template command | reference
+
+docker tag e9ae3c220b23 aws_account_id.dkr.ecr.us-west-2.amazonaws.com/my-repository:tag
+
+// add tag 
+
+docker tag 570e9be7a380 091074224999.dkr.ecr.us-east-1.amazonaws.com/public.ecr.aws/t9e2a5p6/counter-image:latest
+
+docker push 091074224999.dkr.ecr.us-east-1.amazonaws.com/public.ecr.aws/t9e2a5p6/counter-image:latest
+
+// go with view push commands from ecr tab
+
+// official syntax from docs - repo- ECR 
+
+docker push public.ecr.aws/t9e2a5p6/counter-image:latest
+```
