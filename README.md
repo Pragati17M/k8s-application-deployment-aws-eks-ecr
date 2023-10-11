@@ -159,3 +159,43 @@ docker push 091074224999.dkr.ecr.us-east-1.amazonaws.com/public.ecr.aws/t9e2a5p6
 
 docker push public.ecr.aws/t9e2a5p6/counter-image:latest
 ```
+
+------
+Latest Practice
+-------
+// login
+
+aws ecr get-login-password --region us-east-1 | docker login --username AWS --password-stdin 316290926278.dkr.ecr.us-east-1.amazonaws.com
+
+my container id
+
+703c0700a7717524afc78fd3f1860fc0421784721e582c916b44149f1864da8f
+
+aws ecr-public get-login-password --region us-east-1 | docker login --username AWS --password-stdin public.ecr.aws/y4r9g3v4
+
+docker push 091074224999.dkr.ecr.us-east-1.amazonaws.com/public.ecr.aws/t9e2a5p6/counter-image:latest
+
+docker push 61dd1975c866.dkr.ecr.amazonaws.com/public.ecr.aws/y4r9g3v4/counter-image:latest
+
+
+docker push 61dd1975c866.dkr.ecr.amazonaws.com/public.ecr.aws/y4r9g3v4/counter-image
+
+
+
+aws ecr get-login-password --region us-east-1 | docker login --username AWS --password-stdin 316290926278.dkr.ecr.us-east-1.amazonaws.com
+
+
+docker push public.ecr.aws/y4r9g3v4/counter-image:latest
+
+
+(Get-ECRLoginCommand).Password | docker login --username AWS --password-stdin aws_account_id.dkr.ecr.region.amazonaws.com
+
+aws ecr get-login-password 
+
+
+docker tag counter-image:latest 316290926278.dkr.ecr.us-east-1.amazonaws.com/counter-image
+
+docker push 316290926278.dkr.ecr.us-east-1.amazonaws.com/counter-image:latest
+
+
+

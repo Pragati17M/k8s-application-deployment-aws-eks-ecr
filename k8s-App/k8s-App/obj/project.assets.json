@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\test\\Project\\k8s-App-EKS\\k8s-App\\k8s-App\\k8s-App.csproj",
+      "projectUniqueName": "D:\\GitHub\\k8s-App-EKS\\k8s-App\\k8s-App\\k8s-App.csproj",
       "projectName": "k8s-App",
-      "projectPath": "D:\\test\\Project\\k8s-App-EKS\\k8s-App\\k8s-App\\k8s-App.csproj",
+      "projectPath": "D:\\GitHub\\k8s-App-EKS\\k8s-App\\k8s-App\\k8s-App.csproj",
       "packagesPath": "C:\\Users\\atul_\\.nuget\\packages\\",
-      "outputPath": "D:\\test\\Project\\k8s-App-EKS\\k8s-App\\k8s-App\\obj\\",
+      "outputPath": "D:\\GitHub\\k8s-App-EKS\\k8s-App\\k8s-App\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\atul_\\AppData\\Roaming\\NuGet\\NuGet.Config",

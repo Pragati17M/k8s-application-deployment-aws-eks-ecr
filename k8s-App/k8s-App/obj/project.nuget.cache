@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "K+3gQ3CdUgDLiFqNskDf+AcFset+ZhWzX+n2B66OkGpUPZG65FdIrySNX2KVtOKMZ5z09v0ANp4x5wa8WJ6kAw==",
+  "dgSpecHash": "gj6UN7S9eNNmbc9Zf3W9aGNaF3+gN+zPQvO+wqA+O5PlwewdqUK+xrNAY/uUEYztDUu0KJoYZMGvFWw+RvXrqg==",
   "success": true,
-  "projectFilePath": "D:\\test\\Project\\k8s-App-EKS\\k8s-App\\k8s-App\\k8s-App.csproj",
+  "projectFilePath": "D:\\GitHub\\k8s-App-EKS\\k8s-App\\k8s-App\\k8s-App.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
