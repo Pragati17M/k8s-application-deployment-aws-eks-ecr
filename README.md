@@ -1,5 +1,7 @@
 # Kubernetes Application Deployment with AWS EKS and ECR
 
+# Deploy a Full Website on Azure Ubuntu VM 
+
 This project demonstrates the deployment of a .NET 7 application on Kubernetes using AWS Elastic Kubernetes Service (EKS) and Docker. Follow the steps below to clone the repository, build and run the application, and deploy it to AWS.
 
 ## Prerequisites
@@ -13,9 +15,9 @@ This project demonstrates the deployment of a .NET 7 application on Kubernetes u
 ## Steps to Setup and Run the Project
 
 ### 1. Clone the Repository
-```bash
-git clone https://github.com/atulkamble/k8s-App-EKS.git
-cd k8s-App-EKS
+```
+git clone https://github.com/atulkamble/k8s-application-deployment-aws-eks-ecr.git
+cd k8s-application-deployment-aws-eks-ecr
 ```
 
 ### 2. Open and Run the Project
