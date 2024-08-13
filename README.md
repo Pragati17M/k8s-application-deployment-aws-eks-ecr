@@ -1,6 +1,6 @@
 # Kubernetes Application Deployment with AWS EKS and ECR
 
-# Deploy a Full Website on Azure Ubuntu VM 
+## Deploy a Full Website on Azure Ubuntu VM 
 
 This project demonstrates the deployment of a .NET 7 application on Kubernetes using AWS Elastic Kubernetes Service (EKS) and Docker. Follow the steps below to clone the repository, build and run the application, and deploy it to AWS.
 
