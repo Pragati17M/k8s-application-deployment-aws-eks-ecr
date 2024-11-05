@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "gj6UN7S9eNNmbc9Zf3W9aGNaF3+gN+zPQvO+wqA+O5PlwewdqUK+xrNAY/uUEYztDUu0KJoYZMGvFWw+RvXrqg==",
+  "dgSpecHash": "QUx0qWxa2Dw=",
   "success": true,
-  "projectFilePath": "D:\\GitHub\\k8s-App-EKS\\k8s-App\\k8s-App\\k8s-App.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/root/k8s-application-deployment-aws-eks-ecr/k8s-App/k8s-App/k8s-App.csproj",
+  "expectedPackageFiles": [
+    "/root/.nuget/packages/microsoft.netcore.app.ref/6.0.35/microsoft.netcore.app.ref.6.0.35.nupkg.sha512",
+    "/root/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.35/microsoft.aspnetcore.app.ref.6.0.35.nupkg.sha512",
+    "/root/.nuget/packages/microsoft.netcore.app.host.linux-x64/6.0.35/microsoft.netcore.app.host.linux-x64.6.0.35.nupkg.sha512"
+  ],
   "logs": []
 }

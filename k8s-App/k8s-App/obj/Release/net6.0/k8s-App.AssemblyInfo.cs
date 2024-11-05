@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("k8s-App")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+46fdc19303c74d29a77506287b6c83323f469127")]
 [assembly: System.Reflection.AssemblyProductAttribute("k8s-App")]
 [assembly: System.Reflection.AssemblyTitleAttribute("k8s-App")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
